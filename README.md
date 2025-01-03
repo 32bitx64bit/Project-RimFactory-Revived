@@ -1,3 +1,6 @@
+This fork just provides beta releases. Feel free to download, may have improvements, new features, than the stable. But it can also lead to other issues. So use with caution, and always backup your saves.
+
+
 # Project-RimFactory-Revived
 
 ## Factorio Inspired Automation mod in RimWorld
